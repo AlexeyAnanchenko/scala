@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SCALA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SCALA_jar</output-path>
+    <root id="archive" name="SCALA.jar">
+      <element id="module-output" name="SCALA" />
+      <element id="extracted-dir" path="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.jar" path-in-jar="/" />
+      <element id="library" level="project" name="sbt: scala-sdk-2.13.11" />
+    </root>
+  </artifact>
+</component>
